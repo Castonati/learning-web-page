@@ -6,6 +6,6 @@ class firstclass
         System.out.println("hello world");
         System.out.print("*\n**\n***\n****\n*****");
         System.out.println();
-    }
+    } 
 
 }

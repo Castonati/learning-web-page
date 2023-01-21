@@ -12,7 +12,7 @@ int  main()
     head->next=p;
     p->data=6;
     p->next=q;
-    q->data=8;
+    q->data=8; 
     q->next=NULL;
     printlist(head);
     return 0;
